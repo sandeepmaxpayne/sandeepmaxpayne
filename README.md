@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development and Object Animation
 - 🌱 I’m currently learning AI automation, Flutter advanced patterns, and modern app architecture
 - 💞️ I’m looking to collaborate on latest tech and AI automation
-- 📫 How to reach me: https://www.linkedin.com/in/developer-sandeep-dutta/
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-sandeep-dutta/)
 
 <!---
 sandeepmaxpayne/sandeepmaxpayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
